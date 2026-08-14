@@ -4,7 +4,7 @@ An **Excel Data Analysis and Interactive Dashboard project** built to analyze a 
 
 ## 📊 Dashboard Preview
 
-![Cloth Store Annual Report Dashboard](dashboard.png)
+![Cloth Store Annual Report Dashboard](Cloth%20Store%20Report.png)
 
 > **Note:** Upload the dashboard image to your GitHub repository and name it `dashboard.png`, or update the image path above.
 
